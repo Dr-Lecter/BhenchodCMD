@@ -1,0 +1,6 @@
+D:\Software Projects\FakeCmd\FakeCmd\bin\Debug\FakeCmd.exe.config
+D:\Software Projects\FakeCmd\FakeCmd\obj\Debug\FakeCmd.csprojResolveAssemblyReference.cache
+D:\Software Projects\FakeCmd\FakeCmd\bin\Debug\FakeCmd.exe
+D:\Software Projects\FakeCmd\FakeCmd\bin\Debug\FakeCmd.pdb
+D:\Software Projects\FakeCmd\FakeCmd\obj\Debug\FakeCmd.exe
+D:\Software Projects\FakeCmd\FakeCmd\obj\Debug\FakeCmd.pdb
