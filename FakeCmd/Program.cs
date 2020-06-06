@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,7 +24,7 @@ namespace C:\WINDOWS\system32\cmd.exe
         static void Main(string[] args)
         {
             Console.WriteLine("Microsoft Windows [Version 10.0.80081.35]");
-            Console.WriteLine("(c) 2019 Microsoft Corporation. All Rights Reserved");
+            Console.WriteLine("(c) 2019 Microsoft Corporation. All Rights Reserved.");
             
             Start:
             Console.Write("C:\WINDOWS\bin:~#");
@@ -344,6 +344,30 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Thread.Sleep(1000);
 				 Console.WriteLine("You may now connect to the scammer's PC.");
                  Thread.Sleep(1000);
+                 goto Start;
+				 
+                case "manage-bde -status":
+                 Console.WriteLine("BitLocker Drive Encryption: Configuration Tool version 10.0.80081.35");
+				 Console.WriteLine("Copyright (C) 2019 Microsoft Corporation. All rights reserved.");
+				 Thread.Sleep(6000);
+				 Console.WriteLine(" ");
+				 Console.WriteLine("Disk volumes that can be protected with");
+				 Console.WriteLine("BitLocker Drive Encryption:");
+				 Console.WriteLine("Volume C: []");
+				 Console.WriteLine("[OS Volume]");
+				 Console.WriteLine(" ");
+				 Console.WriteLine("    Size:                 31.84 GB");
+				 Console.WriteLine("    BitLocker Version:    2.0");
+				 Console.WriteLine("    Conversion Status:    Fully Encrypted");
+				 Console.WriteLine("    Percentage Encrypted: 100.0%");
+				 Console.WriteLine("    Encryption Method:    XTS-AES 256");
+				 Console.WriteLine("    Protection Status:    Protection On");
+				 Console.WriteLine("    Lock Status:          Locked");
+				 Console.WriteLine("    Identification Field: Local Computer");
+				 Console.WriteLine("    Key Protectors:");
+				 Console.WriteLine("        Numerical Password");
+				 Console.WriteLine("        TPM");
+				 Console.WriteLine("");
                  goto Start;
 				 
 			    default:
