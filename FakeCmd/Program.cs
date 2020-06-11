@@ -15,7 +15,7 @@ using System.Threading;
 
 //Official Repository: https://github.com/Dr-lecter/
 
-//Branch edition by Activate Me/yishundaodi
+//Branch edition by Activate Me/1-877 Tech Line
 
 namespace C:\WINDOWS\system32\cmd.exe
 {
@@ -94,17 +94,17 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Console.WriteLine("We're having some trouble reaching the Secure Serwer right now. Please try again later");
                  Thread.Sleep(500);
                  Console.WriteLine("No Viruses, Foreign Hackers, or Malicious Software Found!!!");
-				 Console.WriteLine("     ccee88oo");
-				 Console.WriteLine("  C8O8O8Q8PoOb o8oo");
-				 Console.WriteLine(" dOB69QO8PdUOpugoO9bD");
-				 Console.WriteLine("CgggbU8OU qOp qOdoUOdcb");
-				 Console.WriteLine("    6OuU  /p u gcoUodpP");
-				 Console.WriteLine("      \\\//  /douUP");
-				 Console.WriteLine("        \\\////");
-				 Console.WriteLine("         |||/.|");
-				 Console.WriteLine("         |||\^/");
-				 Console.WriteLine("         |||||");
-				 Console.WriteLine("   .....//||||\....");
+		 Console.WriteLine("     ccee88oo");
+		 Console.WriteLine("  C8O8O8Q8PoOb o8oo");
+		 Console.WriteLine(" dOB69QO8PdUOpugoO9bD");
+		 Console.WriteLine("CgggbU8OU qOp qOdoUOdcb");
+		 Console.WriteLine("    6OuU  /p u gcoUodpP");
+		 Console.WriteLine("      \\\//  /douUP");
+		 Console.WriteLine("        \\\////");
+		 Console.WriteLine("         |||/.|");
+		 Console.WriteLine("         |||\^/");
+		 Console.WriteLine("         |||||");
+		 Console.WriteLine("   .....//||||\....");
                  goto Start;
 
                 case "help":
@@ -224,7 +224,7 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Thread.Sleep(500);
                  Console.Write("..");
                  Thread.Sleep(1000);
-				 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
+		 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
                  Thread.Sleep(1000);
                  goto Start;
 				 
@@ -245,11 +245,11 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Thread.Sleep(500);
                  Console.Write("..");
                  Thread.Sleep(1000);
-				 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
+		 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
                  Thread.Sleep(1000);
                  goto Start;
 				 
-				case "cd. .":
+		case "cd. .":
                  Console.WriteLine("Initializing.");
                  Thread.Sleep(500);
                  Console.Write("..");
@@ -266,7 +266,7 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Thread.Sleep(500);
                  Console.Write("..");
                  Thread.Sleep(1000);
-				 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
+		 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
                  Thread.Sleep(1000);
                  goto Start;
 
@@ -287,11 +287,11 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Thread.Sleep(500);
                  Console.Write("..");
                  Thread.Sleep(1000);
-				 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
+		 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
                  Thread.Sleep(1000);
                  goto Start;
 
-				case "cd...":
+		case "cd...":
                  Console.WriteLine("Initializing.");
                  Thread.Sleep(500);
                  Console.Write("..");
@@ -308,7 +308,7 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Thread.Sleep(500);
                  Console.Write("..");
                  Thread.Sleep(1000);
-				 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
+		 Console.WriteLine("The CD/DVD has been ejected successfully! You may now take it out of the bay.");
                  Thread.Sleep(1000);
                  goto Start;
 				 
@@ -316,7 +316,7 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Console.WriteLine("There is nowhere you can run");
                  Thread.Sleep(500);
                  Console.WriteLine("There is nowhere you can hide");
-				 Thread.Sleep(500);
+		 Thread.Sleep(500);
                  Console.Write("Reporting location to local police");
                  Thread.Sleep(500);
                  Console.Write("Expect the police to arrive in 5 minutes!");
@@ -342,37 +342,39 @@ namespace C:\WINDOWS\system32\cmd.exe
                  Thread.Sleep(500);
                  Console.Write("..");
                  Thread.Sleep(1000);
-				 Console.WriteLine("You may now connect to the scammer's PC.");
+		 Console.WriteLine("You may now connect to the scammer's PC.");
                  Thread.Sleep(1000);
                  goto Start;
 				 
                 case "manage-bde -status":
                  Console.WriteLine("BitLocker Drive Encryption: Configuration Tool version 10.0.80081.35");
-				 Console.WriteLine("Copyright (C) 2019 Microsoft Corporation. All rights reserved.");
-				 Thread.Sleep(6000);
-				 Console.WriteLine(" ");
-				 Console.WriteLine("Disk volumes that can be protected with");
-				 Console.WriteLine("BitLocker Drive Encryption:");
-				 Console.WriteLine("Volume C: []");
-				 Console.WriteLine("[OS Volume]");
-				 Console.WriteLine(" ");
-				 Console.WriteLine("    Size:                 31.84 GB");
-				 Console.WriteLine("    BitLocker Version:    2.0");
-				 Console.WriteLine("    Conversion Status:    Fully Encrypted");
-				 Console.WriteLine("    Percentage Encrypted: 100.0%");
-				 Console.WriteLine("    Encryption Method:    XTS-AES 256");
-				 Console.WriteLine("    Protection Status:    Protection On");
-				 Console.WriteLine("    Lock Status:          Locked");
-				 Console.WriteLine("    Identification Field: Local Computer");
-				 Console.WriteLine("    Key Protectors:");
-				 Console.WriteLine("        Numerical Password");
-				 Console.WriteLine("        TPM");
-				 Console.WriteLine("");
+		 Console.WriteLine("Copyright (C) 2019 Microsoft Corporation. All rights reserved.");
+		 Thread.Sleep(6000);
+		 Console.WriteLine(" ");
+		 Console.WriteLine("Disk volumes that can be protected with");
+		 Console.WriteLine("BitLocker Drive Encryption:");
+		 Console.WriteLine("Volume C: []");
+		 Console.WriteLine("[OS Volume]");
+		 Console.WriteLine(" ");
+		 Console.WriteLine("    Size:                 31.84 GB");
+		 Console.WriteLine("    BitLocker Version:    2.0");
+		 Console.WriteLine("    Conversion Status:    Fully Encrypted");
+		 Console.WriteLine("    Percentage Encrypted: 100.0%");
+		 Console.WriteLine("    Encryption Method:    XTS-AES 256");
+		 Console.WriteLine("    Protection Status:    Protection On");
+		 Console.WriteLine("    Lock Status:          Locked");
+		 Console.WriteLine("    Identification Field: Local Computer");
+		 Console.WriteLine("    Key Protectors:");
+		 Console.WriteLine("        Numerical Password");
+		 Console.WriteLine("        TPM");
+		 Console.WriteLine("");
                  goto Start;
 				 
-			    default:
-                 Console.WriteLine("I'm sorry, that's not a valid command");
-                 Console.WriteLine("");
+		default:
+		 Console.WriteLine("'"+ userInput);
+                 Console.Write("' is not recognized as an internal or external command,");
+                 Console.WriteLine("operable program or batch file.");
+		 Console.WriteLine("");
                  Console.WriteLine("For a list of commands please type 'help'");
                  goto Start;
 			
