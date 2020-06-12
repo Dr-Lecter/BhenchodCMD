@@ -16,6 +16,7 @@ using System.Threading;
 //Official Repository: https://github.com/Dr-lecter/
 
 //Branch edition by Activate Me/1-877 Tech Line
+//This edition will now be maintained at the fork at https://github.com/1877TechLine/BhenchodCMD
 
 namespace C:\WINDOWS\system32\cmd.exe
 {
